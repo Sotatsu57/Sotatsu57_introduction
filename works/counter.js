@@ -1,4 +1,4 @@
-let count = 1
+let count = 0
 const countUp = () => {
   count *= 2
   count++
